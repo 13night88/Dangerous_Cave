@@ -4,7 +4,11 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
+<<<<<<< Updated upstream
   productGUID: 13a951d0efcef31489cf26969e43f051
+=======
+  productGUID: 12a802d9e240a0c47ba173ca829f370d
+>>>>>>> Stashed changes
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -924,11 +928,19 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 1
   windowsGamepadBackendHint: 0
+<<<<<<< Updated upstream
   cloudProjectId: d2493499-f351-4222-b9c6-739fa343ff9b
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
   projectName: Cave 2026-01-08_01-50-48
   organizationId: unity_13night88
+=======
+  cloudProjectId: 755eff62-218d-4b5c-8596-c88a226ceee0
+  framebufferDepthMemorylessMode: 0
+  qualitySettingsNames: []
+  projectName: Cave
+  organizationId: haritonovlnd
+>>>>>>> Stashed changes
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}
